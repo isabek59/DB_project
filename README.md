@@ -13,6 +13,6 @@
 * Категории(category)
 
 База будет в 3НФ.
-
+<img src="/logical.png" alt="Концептуальная модель" title="Концептуальная модель" style="max-width: 100%;">
 
 <img src="/concept.png" alt="Концептуальная модель" title="Концептуальная модель" style="max-width: 100%;">

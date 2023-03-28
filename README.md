@@ -16,3 +16,8 @@
 <img src="/logical.png" alt="Концептуальная модель" title="Концептуальная модель" style="max-width: 100%;">
 
 <img src="/concept.png" alt="Концептуальная модель" title="Концептуальная модель" style="max-width: 100%;">
+
+Физическая модель:
+https://docs.google.com/spreadsheets/d/1cju3FSo_FBlsEPd81ItLiJjjszDmByyHcqkfq3yyRpw/edit#gid=0
+
+
